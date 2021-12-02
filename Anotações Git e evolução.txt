@@ -1,0 +1,8 @@
+Comandos git
+git clone copia
+git init inica o repositorio
+
+Commit importante para evolução do projeto
+Pull e push sincronia dos projetos
+
+Já tenho alguns cursos ativos, estou revendo e fazendo os quiz: Lógica e estrutura de dados ok
